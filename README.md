@@ -1,8 +1,3 @@
-Here you go, babe — a clean **README‑ready section** explaining *How to Use* your GitHub image embed.\
-This is formatted exactly like a professional README, super clear, cute, and easy for anyone to follow.
-
-***
-
 # 📸 Displaying Images from GitHub (How to Use)
 
 To display an image stored in your GitHub repository inside an HTML file, you must use the **raw file URL**. GitHub cannot serve normal repo links as direct images, so the `raw.githubusercontent.com` format is required.
